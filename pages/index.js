@@ -11,21 +11,21 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
 
       
-      <p>10 Things That Require Zero Talent</p>
-        <ul>
-          <li>Being On Time</li>
-          <li>Making An Effort</li>
-          <li>Being High Energy</li>
-          <li>Having A Positive Attitude</li>
-          <li>Being Passionate</li>
-          <li>Using Good Body Language</li>
-          <li>Being Coachable</li>
-          <li>Doing A Little Extra</li>
-          <li>Being Prepared</li>
-          <li>Having Strong Work Ethic</li>
+    <hr></hr>
+        <p>Hello, I'm <strong>Jordan Micko Deloria</strong>, currently 20 years old, from San Fernando, Pampanga. My hobbies include graphic designing, video editing, and playing badminton. My favorite music is indie, with bands like The Neighbourhood; some of my favorite songs are "Softcore" and "Crybaby." I enjoy kare-kare and other sweet foods like chocolates. I also love exploring my hobbies and passions.
+        </p>
+        <hr></hr>
+        <p>I chose IT because I had a passion when i was a for technology, but I lost that passion during my college days when I realized I wanted to pursue other interests.
+        </p>
+        <hr></hr>
+        <p>I could see myself doing freelance work in graphic design or web design after graduation.</p>
+        <hr></hr>
+        <p>To gain skills in troubleshooting integration issues and learning best practices for creating scalable and secure systems.
+        </p>
+        <hr></hr>
+        <p>Understanding the foundational concepts behind web designing effective and efficient system architectures. And learning how to design systems that can grow and handle increased loads without compromising performance.</p>
 
-        </ul>
-
+        
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
